@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+.box {
+  background-color: rgb(93, 151, 70);
+  width: 100%;
+  text-align: center;
+  border-radius: 30px;
+  border-top: 10px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+button {
+  border-color: red;
+  color: salmon;
+  background-color: skyblue;
+}
